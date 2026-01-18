@@ -2,7 +2,7 @@ Overview
 In this task, I styled the profile page using external CSS to understand how presentation is separated from structure. The focus was on global styles, the CSS box model, reusable classes, and clean styling practices.
 
 What I Did
-Created a separate Task1.css file and linked it to the HTML using the tags.
+Created a separate Task2.css file and linked it to the HTML using the tags.
 Applied global styles such as font family, text color, background color, and line height to understand cascading behavior.
 Used the CSS box model (margin, padding, border) to control spacing and layout.
 Styled headings, paragraphs, lists, and navigation to improve readability and visual hierarchy.
